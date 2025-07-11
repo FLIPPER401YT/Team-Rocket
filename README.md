@@ -1,4 +1,5 @@
-# Team-Rocket
+﻿# Team-Rocket
+WE ARE BLASTING OFF AGAIN 🚀🚀🚀
 
 ## Instructions
 - Nominate a Project Manager
@@ -17,6 +18,6 @@
 
 # Collaborators
 - BrokenFaxMachine (Nicolas Anestor)
-- FLIPPER401YT
+- FLIPPER401YT (Hunter Huelsmann)
 - PandoraV1
 - Chapman! (The Team's Cheerleader!)
