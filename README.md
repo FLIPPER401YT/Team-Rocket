@@ -16,6 +16,6 @@
 - NO NOT EDIT ON GITHUB.COM
 
 # Collaborators
-
+- BrokenFaxmachine
 - FLIPPER401YT
 - Chapman! (The Team's Cheerleader!)
