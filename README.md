@@ -1,4 +1,7 @@
 # Team-Rocket
+Collaborators:
+Nicolas Anestor
+# Team-Rocket
 
 ## Contributers
 
