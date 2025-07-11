@@ -22,6 +22,7 @@ FLIPPER401YT
 # Collaborators
 - BrokenFaxMachine (Nicolas Anestor)
 - FLIPPER401YT
+- PandoraV1
 - Chapman! (The Team's Cheerleader!)
 - Gian-Mo.
 >>>>>>> 4c9e8770f42c8d48c59e091527aa364741b269a9
