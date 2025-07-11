@@ -23,5 +23,5 @@ FLIPPER401YT
 - BrokenFaxMachine (Nicolas Anestor)
 - FLIPPER401YT
 - Chapman! (The Team's Cheerleader!)
-- Gian-Mo
+- Gian-Mo.
 >>>>>>> 4c9e8770f42c8d48c59e091527aa364741b269a9
